@@ -1,5 +1,5 @@
 # CSharpTripleNestedDictionary
-Triple nested dictionary of an address register.
+Console app of triple nested dictionary of an address register.
 Guide:
 The addresses can be added only in the following format: countri(string) city(string) street(string) number(int).
 To print the addresses write keyword "end".
