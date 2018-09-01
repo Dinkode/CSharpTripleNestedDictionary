@@ -1,0 +1,11 @@
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\bin\Debug\netcoreapp2.0\NestedDictionaries.deps.json
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\bin\Debug\netcoreapp2.0\NestedDictionaries.runtimeconfig.json
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\bin\Debug\netcoreapp2.0\NestedDictionaries.runtimeconfig.dev.json
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\bin\Debug\netcoreapp2.0\NestedDictionaries.dll
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\bin\Debug\netcoreapp2.0\NestedDictionaries.pdb
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\obj\Debug\netcoreapp2.0\NestedDictionaries.csproj.CoreCompileInputs.cache
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\obj\Debug\netcoreapp2.0\NestedDictionaries.AssemblyInfoInputs.cache
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\obj\Debug\netcoreapp2.0\NestedDictionaries.AssemblyInfo.cs
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\obj\Debug\netcoreapp2.0\NestedDictionaries.dll
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\obj\Debug\netcoreapp2.0\NestedDictionaries.pdb
+D:\GitHub\NestedDictionaries\NestedDictionaries\NestedDictionaries\obj\Debug\netcoreapp2.0\NestedDictionaries.csprojAssemblyReference.cache
